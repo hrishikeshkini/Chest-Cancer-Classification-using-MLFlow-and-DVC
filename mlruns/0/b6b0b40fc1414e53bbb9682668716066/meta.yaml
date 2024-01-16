@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hrishikesh%20Kini/Documents/Chest-Cancer-Classification-using-MLFlow-and-DVC/mlruns/0/b6b0b40fc1414e53bbb9682668716066/artifacts
+end_time: 1705390037745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6b0b40fc1414e53bbb9682668716066
+run_name: marvelous-fly-105
+run_uuid: b6b0b40fc1414e53bbb9682668716066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705389858619
+status: 3
+tags: []
+user_id: Hrishikesh Kini

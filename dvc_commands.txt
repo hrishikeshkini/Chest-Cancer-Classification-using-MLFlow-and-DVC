@@ -1,0 +1,4 @@
+1. Add dvc.yaml file and configure
+2. dvc init
+3. dvc repro
+4. dvc dag
