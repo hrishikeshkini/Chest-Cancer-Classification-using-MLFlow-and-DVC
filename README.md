@@ -15,8 +15,8 @@ Link: [https://waterdrinkingpotability.herokuapp.com/](https://waterdrinkingpota
 
 
 ## Screenshots
-![Screenshot](Capture.PNG)
-![Screenshot](Capture2.PNG)
+![Screenshot](Capture.png)
+![Screenshot](Capture2.png)
 
 
 ## Introduction:
