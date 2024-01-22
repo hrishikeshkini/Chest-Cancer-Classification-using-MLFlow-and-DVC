@@ -1,7 +1,8 @@
-# Water Quality : Drinking water potability
+# AdenoDetect Pro :  Adenocarcinoma Classification Enhanced by MLOps
 
 ## Table of Content
   * [Demo](#demo)
+  * [Introduction](#Introduction)
   * [Problem Statement](#problem-statement)
   * [Approach](#approach)
   * [Technologies Used](#technologies-used)
@@ -14,18 +15,18 @@
 ## Demo
 Link: [https://waterdrinkingpotability.herokuapp.com/](https://waterdrinkingpotability.herokuapp.com/)
 
-## Youtube
-[![IBM Coursera Advanced Data Science Capstone – HRISHIKESH KINI](http://img.youtube.com/vi/9fGcEExGdQQ/0.jpg)](http://www.youtube.com/watch?v=9fGcEExGdQQ "IBM Coursera Advanced Data Science Capstone – HRISHIKESH KINI")
 
 ## Screenshots
 ![Screenshot](Capture.PNG)
 ![Screenshot](Capture2.PNG)
 
 
-## Problem Statement
-Contaminated water and poor sanitation are linked to transmission of diseases such as cholera, diarrhoea, dysentery, hepatitis A, typhoid, and polio. Absent, inadequate, or inappropriately managed water and sanitation services expose individuals to preventable health risks. This is particularly the case in health care facilities where both patients and staff are placed at additional risk of infection and disease when water, sanitation, and hygiene services are lacking. Globally, 15% of patients develop an infection during a hospital stay, with the proportion much greater in low-income countries.
+## Introduction:
+In the dynamic intersection of healthcare and technology, our project stands at the forefront of leveraging machine learning operations (MLOps) to streamline the classification of adenocarcinoma. The intricate nature of cancer diagnosis demands a robust and automated approach. Through the integration of advanced deep learning models and a well-orchestrated MLOps pipeline, we aim to revolutionize the efficiency and reliability of adenocarcinoma classification.
 
-So, I took some inspiration from this to use this Water Quality dataset to understand what consitutes to safe, Potable water and apply machine learning to it to distinguish between Potable and Non-Potable water.
+
+## Problem Statement
+Traditional cancer classification methods suffer from subjectivity, time-intensive processes, and a crucial need for automation. By adopting MLOps principles, we address these challenges by optimizing the end-to-end pipeline, encompassing model training, deployment, and continuous monitoring. Our goal is to provide healthcare professionals with a scalable, reproducible, and efficient tool for adenocarcinoma diagnosis, ultimately enhancing patient care and treatment outcomes.
 
 ## Approach
 Data Exploration : I started exploring dataset using pandas,numpy,matplotlib and seaborn.
