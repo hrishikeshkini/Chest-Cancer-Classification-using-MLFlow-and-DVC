@@ -29,7 +29,14 @@ In the dynamic intersection of healthcare and technology, our project stands at 
 Traditional cancer classification methods suffer from subjectivity, time-intensive processes, and a crucial need for automation. By adopting MLOps principles, we address these challenges by optimizing the end-to-end pipeline, encompassing model training, deployment, and continuous monitoring. Our goal is to provide healthcare professionals with a scalable, reproducible, and efficient tool for adenocarcinoma diagnosis, ultimately enhancing patient care and treatment outcomes.
 
 ## Approach
-Data Exploration : I started exploring dataset using pandas,numpy,matplotlib and seaborn.
+### Data Collection : 
+##### Download from Kaggle:
+
+The initial step involved downloading histopathological images pertinent to adenocarcinoma from Kaggle. This dataset served as the foundation for our training and testing sets.
+
+#### Transfer to Google Drive:
+
+Recognizing the importance of centralized and collaborative data storage, the dataset was then transferred to Google Drive. This approach not only enhanced accessibility for team members but also streamlined the integration of the dataset into our MLOps pipeline.
 
 Data visualization : Ploted graphs to get insights about dependend and independed variables.
 
