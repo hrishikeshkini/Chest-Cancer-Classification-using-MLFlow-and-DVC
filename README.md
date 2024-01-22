@@ -105,7 +105,7 @@ Pull the Docker image from ECR onto the EC2 instance and run the Flask web app.
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
-git clone https://github.com/hrishikeshkini/Chest-Cancer-Classification-using-MLFlow-and-DVC
+git clone https://github.com/hrishikeshkini/Chest-Cancer-Classification-using-MLFlow-and-DVC.git
 pip install -r requirements.txt
 ```
 If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stable/installation/)
@@ -113,8 +113,7 @@ If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stabl
 ## Bugs & Logs
 
 1. If you find a bug, kindly open an issue and it will be addressed as early as possible. [Open](https://github.com/hrishikeshkini/Chest-Cancer-Classification-using-MLFlow-and-DVC/issues)
-2. Under localhost, logging is performed for all the actions and its stored onto logs.txt file
-3. When the app is deployed on heroku, logs can be viewed on  heroku dashboard or CLI.
+2. Under localhost, logging is performed for all the actions and its stored onto logs/running_logs.log file
 
 ## Contributors
   [Hrishikesh Kini](https://github.com/hrishikeshkini)
