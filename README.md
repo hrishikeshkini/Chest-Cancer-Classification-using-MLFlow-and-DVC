@@ -1,7 +1,6 @@
 # AdenoDetect Pro :  Adenocarcinoma Classification Enhanced by MLOps
 
 ## Table of Content
-  * [Demo](#demo)
   * [Introduction](#Introduction)
   * [Problem Statement](#problem-statement)
   * [Approach](#approach)
@@ -9,9 +8,6 @@
   * [Installation](#installation)
   * [Bugs & Logs](#bugs--logs)
   * [Contributors](#contributors)
-
-## Demo
-Link: [https://waterdrinkingpotability.herokuapp.com/](https://waterdrinkingpotability.herokuapp.com/)
 
 
 ## Screenshots
